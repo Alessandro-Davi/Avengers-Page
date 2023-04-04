@@ -1,0 +1,33 @@
+
+table, th, td { 
+    border:1px solid #F5E200; 
+} 
+
+    h1 { 
+    text-align:center; 
+    color: white; 
+} 
+
+    h2, h3 { 
+    color: white; 
+} 
+    
+    body { 
+    background-color:black; 
+} 
+
+    p, ul, li, dd, dl { 
+    color: #2BF0C6; 
+} 
+
+    th { 
+    color: white; 
+} 
+
+    td, tr { 
+    color: #2BF0C6; 
+} 
+ 
+    dt { 
+    color: white; 
+} 
